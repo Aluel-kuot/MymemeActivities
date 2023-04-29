@@ -39,10 +39,11 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="244dp"
-        android:layout_height="37dp"
+        android:layout_width="238dp"
+        android:layout_height="64dp"
         android:layout_marginTop="396dp"
         android:text="Signs and symptoms of memeory loss"
+        android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.389"
         app:layout_constraintStart_toStartOf="parent"
